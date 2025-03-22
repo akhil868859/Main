@@ -45,8 +45,3 @@ public class Main{
        
    }
 }
-        System.out.println(employee.getSalary());
-        System.out.println(employee.getDepatment());
-        
-    }
- }
